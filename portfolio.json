@@ -1,0 +1,5 @@
+[
+    { "id": 1, "type": "Stocks", "investmentAmount": 10000, "profit": 1500 },
+    { "id": 2, "type": "Real Estate", "investmentAmount": 50000, "profit": 3000 }
+  ]
+  

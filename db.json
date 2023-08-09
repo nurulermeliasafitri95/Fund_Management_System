@@ -1,0 +1,96 @@
+{
+    "funds": [
+      {
+        "id": 1,
+        "name": "Affin Hwang Absolute Return Fund I MYR",
+        "description": "The Fund aims to achieve long term capital growth while striving to maintain capital stability.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [10, 15, 12, 8, 18, 20, 22],
+        "currency": "MYR",
+        "currentNAV": 150.25
+      },
+      {
+        "id": 2,
+        "name": "Affin Hwang Absolute Return Fund II AUD",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 3,
+        "name": "Affin Hwang Flexi Fund 8 MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 4,
+        "name": "Affin Hwang Flexible Maturity Income Fund 16 MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 5,
+        "name": "Affin Hwang Income Fund 3 MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 6,
+        "name": "Affin Hwang Institutional Bond Fund MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 7,
+        "name": "Affin Hwang Target Maturity Income Fund MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 8,
+        "name": "Affin Hwang Wholesale Fund I MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 9,
+        "name": "Affin Hwang Wholesale Income Fund MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      },
+      {
+        "id": 10,
+        "name": "Affin Hwang World Series - Asian Bond Fund MYR",
+        "description": "A fund that invests in government and corporate bonds.",
+        "investmentType": "Income & Growth",
+        "performanceHistory": [5, 6, 4, 7, 8, 5, 6],
+        "currency": "MYR",
+        "currentNAV": 110.74
+      }
+      
+    ]
+  }
+  
