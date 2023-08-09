@@ -44,9 +44,9 @@
       return {
         fund: {
           id: 1,
-          name: 'Equity Fund',
+          name: 'Affin Hwang Absolute Return Fund I MYR',
           description: 'A fund that invests in stocks and equities.',
-          investmentType: 'Equity',
+          investmentType: 'Income & Growth',
           performanceHistory: [10, 15, 12, 8, 18, 20, 22],
           currentNAV: 150.25
         },

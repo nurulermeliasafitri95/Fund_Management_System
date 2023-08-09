@@ -28,19 +28,19 @@ const router = createRouter({
 });
 
 router.beforeEach((to, from, next) => {
-    // Remove 'active' class from all nav-link elements
-    document.querySelectorAll('.nav-link').forEach((element) => {
-      element.classList.remove('active');
-    });
-  
-    // Find the nav-link element corresponding to the current route and add 'active' class
-    const activeLink = document.querySelector(`.nav-link[href="${to.path}"]`);
-    if (activeLink) {
-      activeLink.classList.add('active');
-    }
-  
-    next();
+  // Remove 'active' class from all nav-link elements
+  document.querySelectorAll('.nav-link').forEach((element) => {
+    element.classList.remove('active');
   });
+
+  // Find the nav-link element corresponding to the current route and add 'active' class
+  const activeLink = document.querySelector(`.nav-link[href="${to.path}"]`);
+  if (activeLink) {
+    activeLink.classList.add('active');
+  }
+
+  next();
+});
 
 app.use(router); // Use Vue Router
 

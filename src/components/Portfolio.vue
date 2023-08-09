@@ -44,7 +44,7 @@
                         <td>Income & Growth	</td>
                         <td>RM200</td>
                         <td>RM250</td>
-                        <td>+50</td>
+                        <td>+RM50</td>
                     </tr>
                     <tr>
                         <td>Affin Hwang Income Fund 3 MYR</td>
@@ -58,7 +58,7 @@
                         <td>Income & Growth	</td>
                         <td>RM200</td>
                         <td>RM250</td>
-                        <td>+50</td>
+                        <td>+RM50</td>
                     </tr>
                     <tr>
                         <td>Affin Hwang Income Fund 3 MYR</td>
@@ -72,7 +72,7 @@
                         <td>Income & Growth	</td>
                         <td>RM200</td>
                         <td>RM250</td>
-                        <td>+50</td>
+                        <td>+RM50</td>
                     </tr>
                     <tr>
                         <td>Affin Hwang Income Fund 3 MYR</td>
@@ -86,7 +86,7 @@
                         <td>Income & Growth	</td>
                         <td>RM200</td>
                         <td>RM250</td>
-                        <td>+50</td>
+                        <td>+RM50</td>
                     </tr>
                     <tr>
                         <td>Affin Hwang Income Fund 3 MYR</td>
@@ -100,7 +100,7 @@
                         <td>Income & Growth	</td>
                         <td>RM200</td>
                         <td>RM250</td>
-                        <td>+50</td>
+                        <td>+RM50</td>
                     </tr>
                     <tr>
                         <td>Affin Hwang Income Fund 3 MYR</td>
